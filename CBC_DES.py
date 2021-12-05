@@ -1,4 +1,4 @@
-# created by 15011106
+# CBC MODE created by 15011106
 
 import random
 import copy
